@@ -9,7 +9,6 @@ My GitHub page is http://github.com/Dom262004.
 ### CPSC 120
 
 * Lab 2
-
     Lab 2 Part 1 was one of my favorite labs because I was able to better my 
     understanding of Cin and Cout printing. I also really enjoyed the user 
     interaction with the fill-in-the-blank Madlibs code. I had a lot of fun 
